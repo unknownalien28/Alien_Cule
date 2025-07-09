@@ -1,9 +1,9 @@
 const settings = {
-  packname: 'Lucky Tech Hub Bot',
+  packname: 'ALIEN_CULE BOT',
   author: '‎',
-  botName: "Lucky Tech Hub Bot",
-  botOwner: 'Lucky218', // Your name
-  ownerNumber: '256789101112', //Set your number here without + symbol, just add country code & number without any space
+  botName: "LALIEN_CULE BOT",
+  botOwner: 'ALIEN_CULE', // Your name
+  ownerNumber: '2348100236360', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
