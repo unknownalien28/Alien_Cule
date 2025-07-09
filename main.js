@@ -1,15 +1,3 @@
-
-/**
- * ALIEN_CULE BOT - A WhatsApp Bot
- * Copyright (c) 2025 Lucky218
- * 
- * This program is free software: you can redistribute it and/or modify
- * it under the terms of the MIT License.
- * 
- * Credits:
- * - Baileys Library by @adiwajshing
- * - Pair Code implementation inspired by TechGod143 & DGXEON
- */
 const settings = require('./settings');
 require('./config.js');
 const { isBanned } = require('./lib/isBanned');
