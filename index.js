@@ -154,7 +154,7 @@ async function startXeonBotInc() {
                             forwardingScore: 1,
                             isForwarded: true,
                             forwardedNewsletterMessageInfo: {
-                                newsletterJid: '120363420656466131@newsletter',
+                                newsletterJid: '0029Vb5t5EaEwEjnvkk6Yb1Z@newsletter',
                                 newsletterName: 'Alien_Cule Bot',
                                 serverMessageId: -1
                             }
@@ -252,7 +252,7 @@ async function startXeonBotInc() {
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420656466131@newsletter',
+                        newsletterJid: '0029Vb5t5EaEwEjnvkk6Yb1Z@newsletter',
                         newsletterName: 'Alien_Cule Bot',
                         serverMessageId: -1
                     }
