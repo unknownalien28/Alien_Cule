@@ -32,13 +32,13 @@ async function simpCommand(sock, chatId, quotedMsg, mentionedJid, sender) {
         // Send the image with caption
         await sock.sendMessage(chatId, {
             image: imageBuffer,
-            caption: '*your religion is simping*',
+            caption: '*your religion is simping😌👽*',
             contextInfo: {
                 forwardingScore: 1,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363420656466131@newsletter',
-                    newsletterName: 'Lucky Tech Hub Bot',
+                    newsletterJid: '0029Vb5t5EaEwEjnvkk6Yb1Z@newsletter',
+                    newsletterName: 'Alien Cule Bot',
                     serverMessageId: -1
                 }
             }
@@ -52,8 +52,8 @@ async function simpCommand(sock, chatId, quotedMsg, mentionedJid, sender) {
                 forwardingScore: 1,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363420656466131@newsletter',
-                    newsletterName: 'Lucky Tech Hub Bot',
+                    newsletterJid: '0029Vb5t5EaEwEjnvkk6Yb1Z@newsletter',
+                    newsletterName: 'Alien Cule Bot',
                     serverMessageId: -1
                 }
             }
