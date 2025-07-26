@@ -5,9 +5,9 @@ const path = require('path');
 async function helpCommand(sock, chatId, message) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'LuckyTechHub-Bot'}🦾*  
+   *🤖 ${settings.botName || 'Alien Cule Bot'}🦾*  
    Version: *${settings.version || '2.0.2'}*
-   by ${settings.botOwner || 'Lucky Tech Hub'}
+   by ${settings.botOwner || 'Alien_Cule'}
    YT : ${global.ytch}
 ╚═══════════════════╝
 
@@ -59,7 +59,7 @@ async function helpCommand(sock, chatId, message) {
 ╚═══════════════════╝
 
 ╔═══════════════════╗
-🎩 *Owner Commands*:🎩
+👽 *Alien Only Commands*:👽
 ║ ➤ .mode
 ║ ➤ .autostatus
 ║ ➤ .clearsession
@@ -171,8 +171,8 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420656466131@newsletter',
-                        newsletterName: 'Lucky Tech Hub Bot',
+                        newsletterJid: '0029Vb5t5EaEwEjnvkk6Yb1Z@newsletter',
+                        newsletterName: 'Alien Cule Bot',
                         serverMessageId: -1
                     }
                 }
@@ -185,8 +185,8 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420656466131@newsletter',
-                        newsletterName: 'Lucky Tech Hub Bot by Lucky Tech Hub',
+                        newsletterJid: '0029Vb5t5EaEwEjnvkk6Yb1Z@newsletter',
+                        newsletterName: 'Alien Cule Bot by Alien_Cule',
                         serverMessageId: -1
                     } 
                 }
