@@ -117,7 +117,7 @@ async function viewOnceCommand(sock, chatId, message) {
 
                 await sock.sendMessage(chatId, { 
                     video: fs.readFileSync(tempFile),
-                    caption: `*👀 Lucky Tech Hub Bot Anti ViewOnce 👀*\n\n*Type:* Video 📹\n${caption ? `*Caption:* ${caption}` : ''}`,
+                    caption: `*👀 📸 “View-once? Not when I'm watching.” *Alien Cule Bot never blinks.* 👀*\n\n*Type:* Video 📹\n${caption ? `*Caption:* ${caption}` : ''}`,
                     ...channelInfo
                 });
 
